@@ -48,18 +48,6 @@ Meu objetivo com cada projeto é colocar meus conhecimentos em prática e acompa
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HigorCabralDev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorCabralDev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div>
